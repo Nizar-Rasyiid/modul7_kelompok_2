@@ -1,0 +1,15 @@
+{
+   "firstName": "Nizar",
+   "lastName": "Rasyiid",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Marunda",
+       "city": "Jakarta",
+       "state": "DKJ Jakarta"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2C8", "name": "Object Oriented Programming" }
+   ]
+}

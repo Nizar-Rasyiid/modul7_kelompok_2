@@ -1,0 +1,14 @@
+D:\KPL C#\newMod7\newMod7\bin\Debug\net8.0\newMod7.exe
+D:\KPL C#\newMod7\newMod7\bin\Debug\net8.0\newMod7.deps.json
+D:\KPL C#\newMod7\newMod7\bin\Debug\net8.0\newMod7.runtimeconfig.json
+D:\KPL C#\newMod7\newMod7\bin\Debug\net8.0\newMod7.dll
+D:\KPL C#\newMod7\newMod7\bin\Debug\net8.0\newMod7.pdb
+D:\KPL C#\newMod7\newMod7\obj\Debug\net8.0\newMod7.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPL C#\newMod7\newMod7\obj\Debug\net8.0\newMod7.AssemblyInfoInputs.cache
+D:\KPL C#\newMod7\newMod7\obj\Debug\net8.0\newMod7.AssemblyInfo.cs
+D:\KPL C#\newMod7\newMod7\obj\Debug\net8.0\newMod7.csproj.CoreCompileInputs.cache
+D:\KPL C#\newMod7\newMod7\obj\Debug\net8.0\newMod7.dll
+D:\KPL C#\newMod7\newMod7\obj\Debug\net8.0\refint\newMod7.dll
+D:\KPL C#\newMod7\newMod7\obj\Debug\net8.0\newMod7.pdb
+D:\KPL C#\newMod7\newMod7\obj\Debug\net8.0\newMod7.genruntimeconfig.cache
+D:\KPL C#\newMod7\newMod7\obj\Debug\net8.0\ref\newMod7.dll
