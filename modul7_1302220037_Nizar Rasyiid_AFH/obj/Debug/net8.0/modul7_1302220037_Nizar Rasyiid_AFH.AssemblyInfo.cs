@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("modul7_1302220037_Nizar Rasyiid_AFH")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+013a50d4e6ede032926f205be2e6bdca2ff842e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c82437266c3a09d21ad1cdb5f584e20859cb6492")]
 [assembly: System.Reflection.AssemblyProductAttribute("modul7_1302220037_Nizar Rasyiid_AFH")]
 [assembly: System.Reflection.AssemblyTitleAttribute("modul7_1302220037_Nizar Rasyiid_AFH")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

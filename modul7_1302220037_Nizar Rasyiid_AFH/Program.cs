@@ -5,5 +5,6 @@ internal class Program
     private static void Main(string[] args)
     {
         DataMahasiswa_1302223116.readJson();
+        TeamMembers_1302223116.readJson();
     }
 }
