@@ -1,0 +1,14 @@
+{
+   "firstName": "Matthew",
+   "lastName": "Theodore",
+   "gender": "male",
+   "age": 19,
+   "address": {
+       "streetAddress": "Sawo Sari Barat",
+       "city": "Salatiga",
+       "state": "Central Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" }
+   ]
+}

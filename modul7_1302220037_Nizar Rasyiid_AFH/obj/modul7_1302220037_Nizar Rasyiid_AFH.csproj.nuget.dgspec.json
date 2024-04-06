@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\KPL C#\\modul7_1302220037_Nizar Rasyiid_AFH\\modul7_1302220037_Nizar Rasyiid_AFH\\modul7_1302220037_Nizar Rasyiid_AFH.csproj": {}
+    "D:\\1. University\\TP\\KPL\\modul7\\modul7_1302220037_Nizar Rasyiid_AFH\\modul7_1302220037_Nizar Rasyiid_AFH.csproj": {}
   },
   "projects": {
-    "D:\\KPL C#\\modul7_1302220037_Nizar Rasyiid_AFH\\modul7_1302220037_Nizar Rasyiid_AFH\\modul7_1302220037_Nizar Rasyiid_AFH.csproj": {
+    "D:\\1. University\\TP\\KPL\\modul7\\modul7_1302220037_Nizar Rasyiid_AFH\\modul7_1302220037_Nizar Rasyiid_AFH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KPL C#\\modul7_1302220037_Nizar Rasyiid_AFH\\modul7_1302220037_Nizar Rasyiid_AFH\\modul7_1302220037_Nizar Rasyiid_AFH.csproj",
+        "projectUniqueName": "D:\\1. University\\TP\\KPL\\modul7\\modul7_1302220037_Nizar Rasyiid_AFH\\modul7_1302220037_Nizar Rasyiid_AFH.csproj",
         "projectName": "modul7_1302220037_Nizar Rasyiid_AFH",
-        "projectPath": "D:\\KPL C#\\modul7_1302220037_Nizar Rasyiid_AFH\\modul7_1302220037_Nizar Rasyiid_AFH\\modul7_1302220037_Nizar Rasyiid_AFH.csproj",
-        "packagesPath": "C:\\Users\\Os 10\\.nuget\\packages\\",
-        "outputPath": "D:\\KPL C#\\modul7_1302220037_Nizar Rasyiid_AFH\\modul7_1302220037_Nizar Rasyiid_AFH\\obj\\",
+        "projectPath": "D:\\1. University\\TP\\KPL\\modul7\\modul7_1302220037_Nizar Rasyiid_AFH\\modul7_1302220037_Nizar Rasyiid_AFH.csproj",
+        "packagesPath": "C:\\Users\\theod\\.nuget\\packages\\",
+        "outputPath": "D:\\1. University\\TP\\KPL\\modul7\\modul7_1302220037_Nizar Rasyiid_AFH\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Os 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\theod\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
