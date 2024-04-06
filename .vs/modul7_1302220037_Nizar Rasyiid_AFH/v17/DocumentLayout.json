@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KPL C#\\modul7_1302220037_Nizar Rasyiid_AFH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE18D68F-7CA9-4C65-BB0F-F18909C7D7EA}|modul7_1302220037_Nizar Rasyiid_AFH\\modul7_1302220037_Nizar Rasyiid_AFH.csproj|d:\\kpl c#\\modul7_1302220037_nizar rasyiid_afh\\modul7_1302220037_nizar rasyiid_afh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE18D68F-7CA9-4C65-BB0F-F18909C7D7EA}|modul7_1302220037_Nizar Rasyiid_AFH\\modul7_1302220037_Nizar Rasyiid_AFH.csproj|solutionrelative:modul7_1302220037_nizar rasyiid_afh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KPL C#\\modul7_1302220037_Nizar Rasyiid_AFH\\modul7_1302220037_Nizar Rasyiid_AFH\\Program.cs",
+              "RelativeDocumentMoniker": "modul7_1302220037_Nizar Rasyiid_AFH\\Program.cs",
+              "ToolTip": "D:\\KPL C#\\modul7_1302220037_Nizar Rasyiid_AFH\\modul7_1302220037_Nizar Rasyiid_AFH\\Program.cs",
+              "RelativeToolTip": "modul7_1302220037_Nizar Rasyiid_AFH\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T00:48:12.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
